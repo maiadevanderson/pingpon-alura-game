@@ -1,2 +1,2 @@
 # pong-game
-Meu jogo criado a partir do curso de jogos clássicos com JS parte 1 - Prof Guilherme Lima
+Jogo Pong craiado em Javascript utilizando o site https://editor.p5js.org/ para testar e criar os códigos.
